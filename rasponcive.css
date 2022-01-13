@@ -1,0 +1,133 @@
+@media all and (max-width: 1221px) {
+    h2 {
+        font-size: 35px;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    .single {
+        height: 70%;
+    }
+    .head {
+        font-size: 30px;
+    }
+    p {
+        font-size: 18px;
+    }
+    .link-button {
+        padding: 8px 10px;
+        font-weight: 800;
+        font-size: 10px;
+    }
+    h4 {
+        font-size: 30px;
+    }
+   p {
+        font-size: 15px;
+    }
+    .first-part img {
+        width: 80%;
+        margin-top: 10%;
+    }
+}
+@media all and (max-width: 1100px) {
+    h2 {
+        font-size: 20px;
+    }
+    .first-part {
+        width: 35%;
+        margin-left: 8%;
+        padding: 1%;
+    }
+}
+
+@media all and (max-width: 697px) {
+    .first-part {
+        width: 46%;
+        margin-left: 2%;
+        padding: 0%;
+    }
+    p {
+        font-size: 12px;
+    }
+    .first-part single.orange-hilehide {
+        font-size: 13px;
+    }
+    .orange-hilehide {
+        font-size: 14px;
+    }
+    .single {
+        height: 50%;
+    }
+    section {
+        padding-bottom: 0;
+    }
+    
+}
+@media all and (max-width: 585px) {
+    .head {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 13px;
+        margin: 0;
+    }
+}
+@media all and (max-width: 580px) {
+    .orange-hilehide {
+        font-size: 12px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+}
+@media all and (max-width: 504px) {
+    h1 {
+        font-size: 30px;
+    }
+    .link-button {
+        padding: 5px;
+        font-weight: 700;
+        font-size: 8px;
+    }
+    
+}
+
+@media all and (max-width: 488px) {
+    .head {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 13px;
+    }
+    p {
+        font-size: 9px;
+    }
+    .first-part {
+        width: 44%;
+        margin-left: 3%;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    .orange-hilehide {
+        font-size: 9px;
+    }
+    .single {
+        height: 40%;
+    }
+}
+@media all and (max-width: 360px) {
+    h2 {
+        font-size: 12px;
+    }
+    p {
+        font-size: 9px;
+    }
+    .single {
+        height: 40%;
+    }
+    .orange-hilehide {
+        font-size: 7px;
+    }
+}
